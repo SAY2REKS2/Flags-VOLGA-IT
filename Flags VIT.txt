@@ -1,10 +1,6 @@
-Задание 1: VIT{SOGOODSOFARKEEPTRYING}
-
-Задание 2: VIT{1s_th1s_really_the_p@ssw0rd?}
-
-Задание 3: VIT{ar3_y0u_see_me?}
-
-Задание 4: VIT{Niagara_Falls}
-
-Задание 5: VIT{d0es_any0ne_see_me?}
+{1} : VIT{SOGOODSOFARKEEPTRYING}
+{2} : VIT{1s_th1s_really_the_p@ssw0rd?}
+{3} : VIT{ar3_y0u_see_me?}
+{4} : VIT{Niagara_Falls}
+{5} : VIT{d0es_any0ne_see_me?}
 
